@@ -1,1 +1,2 @@
 # ConeccionABD
+DESDE BD LOCAL
